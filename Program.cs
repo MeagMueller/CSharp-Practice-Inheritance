@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Custom_Colors_and_Sounds
 {
@@ -6,7 +7,7 @@ namespace Custom_Colors_and_Sounds
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
